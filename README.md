@@ -7,15 +7,15 @@
 </div>
 
 ```console
-user@github:~$ whoami
+MUstinov77@github:~$ whoami
 > Backend developer focused on Python and Go
 
-user@github:~$ cat focus.txt
+MUstinov77@github:~$ cat focus.txt
 > Designing and building scalable APIs and services
 > Clean architecture, concurrency, performance
 > Observability, testing, CI/CD
 
-user@github:~$ echo $STATUS
+MUstinov77@github:~$ echo $STATUS
 > Open to interesting projects and collaboration
 ```
 
