@@ -42,7 +42,7 @@ MUstinov77@github:~$ echo $STATUS
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MUstinov77&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUstinov77&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Loqi&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=30363D" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUstinov77&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=30363D" alt="streak"/>
 
 </div>
 
