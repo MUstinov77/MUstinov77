@@ -39,10 +39,8 @@ MUstinov77@github:~$ echo $STATUS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MUstinov77&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUstinov77&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="top languages"/>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MUstinov77&theme=dark)
+
 
 </div>
 
