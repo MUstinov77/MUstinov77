@@ -53,7 +53,7 @@ MUstinov77@github:~$ echo $STATUS
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Timelove**](https://github.com/MUstinov77/timelove) | Web app for pairs and friends | ![Python](https://img.shields.io/badge/-Python-0d1117?logo=python&logoColor=00ff41) |
-| [**project-two**](https://github.com/MUstinov77/project-two) | Short description of what it does | ![Go](https://img.shields.io/badge/-Go-0d1117?logo=go&logoColor=00ff41) |
+| [**project-two**](https://github.com/MUstinov77/weatherGo) | Desktop app for weather check | ![Go](https://img.shields.io/badge/-Go-0d1117?logo=go&logoColor=00ff41) |
 
 ## `$ ./contact.sh`
 
